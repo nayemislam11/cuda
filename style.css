@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #87509c;
+}
+.nav-item>.nav-link{
+    color: #fff;
+}
+.nav-item>.nav-link:hover{
+    color: #fff;
+}
+.nav-item:hover{
+    background-color: #643a79;
+    border-radius: 5px;
+}
+.header-text{
+    font-size: 38px;
+    color: #fff;
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+.work_with_us_btn{
+    background-color: #eb7d4b;
+    color: #fff;
+    padding: 10px 30px;
+    margin-bottom: 100px;
+    border: none;
+    border-bottom: 4px solid #e76a40;
+    border-radius: 5px;
+}
+.services{
+    background-color: #17c2a4;
+    padding-bottom: 100px;
+    color: #fff;
+   
+}
+.services_we_pravide{
+    padding-top: 100px;
+}
+.dag{
+    margin: 20px 0px;
+    height: 3px;
+    width: 80px;
+    background-color: #91999d;
+}
+.meet{
+    background-color: #e7f1f8;
+    padding-bottom: 100px;
+    color: #3c4761; 
+}
+.we{
+    background-color: #ffffff;
+    padding-bottom: 100px;
+    color: #3c4761;  
+}
+.navbar-expand{
+    background-color: #344b8e;
+    padding: 350px;
+    
+} 
+.row{
+    margin: none;
+    padding: 80px;
+} 
+.OUR{
+    background-color: #ffdd99;
+}
+.us_btn{
+    background-color: #fff;
+    color: #0f0f0f;
+    padding: 5px 20px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 5px;
+}
+.us_btn_btn{
+    background-color: #ebc985;
+    color: #0f0f0f;
+    padding: 5px 20px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 5px; 
+}
+.col-lg-6{
+    margin: 0;
+    padding: 25px;
+}
+.work_us_btn{
+    background-color: #17c2a4;
+    color: #fff;
+    padding: 15px 40px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 5px;
+}
+.ABOUT_US{
+    background-color: #3c5499;
+    color: #fff;
+}
+.contact_form{
+    width: 50px!important;
+}
+.form-control{
+    background-color: #273a71!important;
+    border: none!important;
+    padding: -10px!important;
+    margin-top: -80px;
+
+}
+#form{
+    padding: -10px;
+    margin-top: -170px;
+}
+.sand_us_btn{
+    background-color: #30bae7;
+    color: #fff;
+    padding: 15px 40px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 5px; 
+   margin-top: -60;
+}
+.contrk_us_btn{
+    background-color: #344b8e;
+    color: #fff;
+    padding: 5px;
+    margin: 30px;
+    border: none;
+    
+}
+.row_row{
+    background-color: #344b8e;
+    padding: 10px;
+  
+}
+.fixed-top{
+    background-color:  #87509c;
+    padding: 15px;
+}
+
+
+
+ 
